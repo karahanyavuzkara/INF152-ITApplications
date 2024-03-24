@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HW/HW.iml" filepath="$PROJECT_DIR$/HW/HW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta4/Hafta4.iml" filepath="$PROJECT_DIR$/Hafta4/Hafta4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta5/Hafta5.iml" filepath="$PROJECT_DIR$/Hafta5/Hafta5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta6/Hafta6.iml" filepath="$PROJECT_DIR$/Hafta6/Hafta6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hafta7/Hafta7.iml" filepath="$PROJECT_DIR$/Hafta7/Hafta7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/INF152.iml" filepath="$PROJECT_DIR$/INF152.iml" />
+    </modules>
+  </component>
+</project>
