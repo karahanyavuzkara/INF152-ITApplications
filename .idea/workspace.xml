@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa3154be-9f2e-45a3-aa63-11ec12591073" name="Changes" comment="basic java operations we did in class.">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaPractices/src/deneme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaPractices/src/evlendirmeDairesi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,24 +57,24 @@
       <recent name="C:\Users\karah\coding\INF152\Hafta5\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.vizeFinal">
-    <configuration name="Kutuphane" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kutuphane" />
-      <module name="Hafta7" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Listeler" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Listeler" />
-      <module name="Hafta7" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.evlendirmeDairesi">
     <configuration name="Ornek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ornek" />
       <module name="HW" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="deneme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deneme" />
+      <module name="JavaPractices" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="evlendirmeDairesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="evlendirmeDairesi" />
+      <module name="JavaPractices" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -94,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.evlendirmeDairesi" />
+        <item itemvalue="Application.deneme" />
         <item itemvalue="Application.vizeFinal" />
         <item itemvalue="Application.telefonFatura" />
         <item itemvalue="Application.Ornek" />
-        <item itemvalue="Application.Kutuphane" />
-        <item itemvalue="Application.Listeler" />
       </list>
     </recent_temporary>
   </component>
@@ -113,7 +114,7 @@
       <workItem from="1711225040577" duration="256000" />
       <workItem from="1711225895296" duration="838000" />
       <workItem from="1711226761698" duration="381000" />
-      <workItem from="1711281633801" duration="4664000" />
+      <workItem from="1711281633801" duration="12526000" />
     </task>
     <task id="LOCAL-00001" summary="basic java operations we did in class.">
       <created>1711283234816</created>
@@ -122,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711283234816</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="basic java operations we did in class.">
+      <created>1711286438902</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711286438902</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,20 +139,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="basic java operations we did in class." />
     <option name="LAST_COMMIT_MESSAGE" value="basic java operations we did in class." />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/JavaPractices/src/vizeFinal.java</url>
-          <line>5</line>
-          <properties class="vizeFinal" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
