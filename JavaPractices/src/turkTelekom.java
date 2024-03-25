@@ -2,6 +2,8 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class turkTelekom {
+
+
     public static void main(String[]args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Kişi sayısını giriniz: ");
@@ -85,10 +87,36 @@ public class turkTelekom {
                     break;
                 case 5:
                     double enBFatura = Integer.MIN_VALUE;
+                    String enbFaturaKisi = "";
                     for (int i = 0; i < ad.size(); i++) {
-                        if ()
-
+                        double fatura = ((dk.get(i)*.5) + (sms.get(i)*.4) + (gb.get(i)*12));
+                        if ( enBFatura < fatura) {
+                            enBFatura = fatura;
+                            enbFaturaKisi = ad.get(i);
+                        }
                     }
+                    System.out.println("En büyük fatura: "+ enBFatura);
+                    System.out.println("En büyük fatura kisi:"+ enbFaturaKisi);
+                    break;
+
+                case 6:
+                    double enKFatura = Integer.MAX_VALUE;
+                    String enKFaturaKisi = "";
+                    for (int i = 0; i < ad.size(); i++) {
+                        double fatura = ((dk.get(i)*.5) + (sms.get(i)*.4) + (gb.get(i)*12));
+                        if ( enKFatura > fatura) {
+                            enKFatura = fatura;
+                            enKFaturaKisi = ad.get(i);
+
+                        }
+                     }
+
+                    System.out.println("En küçük fatura: "+ enKFatura);
+                    System.out.println("En küçük fatura kisi:"+ enKFaturaKisi);
+                    break;
+
+                case 7:
+                    System.out.println("Programdan çıkılıyor.");
             }
         }while (menu!=7);
             sc.close();
