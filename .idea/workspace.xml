@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa3154be-9f2e-45a3-aa63-11ec12591073" name="Changes" comment="basic java operations we did in class.">
-      <change afterPath="$PROJECT_DIR$/JavaPractices/src/vizeFinal2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaPractices/src/turkTelekom2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaPractices2/JavaPractices2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaPractices2/src/Metotlar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaPractices2/src/vizefinalbasari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaPractices3/src/Metotlar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaPractices3/src/vizecalisma.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaPractices/src/evlendirmeDairesi.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPractices/src/evlendirmeDairesi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaPractices/src/turkTelekom.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaPractices/src/turkTelekom.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,21 +62,7 @@
       <recent name="C:\Users\karah\coding\INF152\Hafta5\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.vizeFinal2">
-    <configuration name="deneme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="deneme" />
-      <module name="JavaPractices" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="evlendirmeDairesi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="evlendirmeDairesi" />
-      <module name="JavaPractices" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.vizecalisma">
     <configuration name="turkTelekom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="turkTelekom" />
       <module name="JavaPractices" />
@@ -95,13 +84,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="vizecalisma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vizecalisma" />
+      <module name="JavaPractices3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vizefinalbasari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vizefinalbasari" />
+      <module name="JavaPractices2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.vizecalisma" />
         <item itemvalue="Application.vizeFinal2" />
-        <item itemvalue="Application.turkTelekom" />
         <item itemvalue="Application.vizeFinal" />
-        <item itemvalue="Application.evlendirmeDairesi" />
-        <item itemvalue="Application.deneme" />
+        <item itemvalue="Application.vizefinalbasari" />
+        <item itemvalue="Application.turkTelekom" />
       </list>
     </recent_temporary>
   </component>
@@ -118,7 +121,7 @@
       <workItem from="1711226761698" duration="381000" />
       <workItem from="1711281633801" duration="12810000" />
       <workItem from="1711365124280" duration="6692000" />
-      <workItem from="1711378004801" duration="2465000" />
+      <workItem from="1711378004801" duration="7804000" />
     </task>
     <task id="LOCAL-00001" summary="basic java operations we did in class.">
       <created>1711283234816</created>
@@ -155,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711370814094</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="basic java operations we did in class.">
+      <created>1711380761562</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1711380761562</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
